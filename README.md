@@ -12,3 +12,7 @@ _Improving the Quality of Co-evolution Intermolecular Contact Prediction with Di
 Siri Camee van Keulen, Alexandre M.J.J. Bonvin
 
 DOI: *TBD
+
+
+## 2. Docking results 
+Results of each docking protocol can be found on Zenodo:  *TBD
