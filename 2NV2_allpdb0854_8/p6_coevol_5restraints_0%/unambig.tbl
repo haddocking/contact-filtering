@@ -1,0 +1,5 @@
+assign (resi 111 and segid A and name CB) (resi 71 and segid B and name CB) 5.0 2.0 2.0)
+assign (resi 114 and segid A and name CB) (resi 97 and segid B and name CA) 5.0 2.0 2.0)
+assign (resi 117 and segid A and name CB) (resi 6 and segid B and name CB) 5.0 2.0 2.0)
+assign (resi 13 and segid A and name CB) (resi 40 and segid B and name CB) 5.0 2.0 2.0)
+assign (resi 58 and segid A and name CB) (resi 253 and segid B and name CB) 5.0 2.0 2.0)

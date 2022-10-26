@@ -1,0 +1,14 @@
+zone A.1-A.40
+zone A.42-A.44
+zone A.46-A.48
+zone A.50-A.68
+zone A.70-A.71
+zone A.73-A.89
+zone A.91-A.123
+zone A.125-A.192
+fit
+rzone B.3-B.49
+rzone B.51-B.71
+rzone B.73-B.79
+rzone B.81-B.118
+rzone B.120-B.123

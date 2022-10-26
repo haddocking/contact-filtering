@@ -1,0 +1,10 @@
+zone A.3-A.72
+zone A.74-A.76
+zone A.78-A.87
+zone A.89-A.94
+zone A.105-A.105
+zone A.107-A.130
+fit
+rzone B.2-B.71
+rzone B.73-B.85
+rzone B.87-B.100
