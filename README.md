@@ -60,7 +60,9 @@ Nine directories in each complex directory include the files to perform the prot
 
 ![This is an image](https://github.com/haddocking/contact-filtering/blob/main/table_2.png?raw=true)
 
-The name of each protocol includes the **protocol number** according to the manuscript, **contact method** which was used to arrange the contacts in the distance restraint file (divis or coevolution), **the number of contacts** included in the distance restraint file and the **percentage of random removal** for the contact list during docking (e.g. `p5_disvis_10restraints_50%`).
+The name of each protocol includes the **protocol number** according to the manuscript, **contact method** which was used to arrange the contacts in the distance restraint file (disvis or coevolution), **the number of contacts** included in the distance restraint file and the **percentage of random removal** for the contact list during docking (e.g. `p5_disvis_10restraints_50%`).
+
+
 
 
 
