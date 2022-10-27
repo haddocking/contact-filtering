@@ -85,7 +85,6 @@ ProtocolNumber_ContactMethod_NumberOfContacts_Removal (e.g p1_coevol_20restraint
 |
 └─── output
 ```
----
 * Protein Structures:
     * `GreenID_contacts_chainA.pdb` coordinates for chain A
     * `GreenID_contacts_chainB.pdb` coordinates for chain B
@@ -94,7 +93,6 @@ ProtocolNumber_ContactMethod_NumberOfContacts_Removal (e.g p1_coevol_20restraint
 	* `hbonds.tbl` Unambiguous restraints
 * Docking input:
     * `run.cns`  
----  
 
 <br/>
 
