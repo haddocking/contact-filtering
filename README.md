@@ -90,9 +90,9 @@ ProtocolNumber_ContactMethod_NumberOfContacts_Removal (e.g p1_coevol_20restraint
     * `GreenID_contacts_chainB.pdb` coordinates for chain B
 * Distance restraints:
 	* `ambig.tbl` Ambiguous interaction restraints
-	* `hbonds.tbl` Unambiguous restraints
+	* `hbonds.tbl` Unambiguous restraints defined to keep the chains together in case of chain break
 * Docking input:
-    * `run.cns`  
+    * `run.cns`  The HADDOCK parameter file defining the docking protocol and settings
 
 <br/>
 
