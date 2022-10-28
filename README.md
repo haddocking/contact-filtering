@@ -2,9 +2,7 @@
 # contact-filtering
 DisVis-based filtering of contacts from co-evolution data (or other sources)
 
-DOI:
- 10.5281/zenodo.7260708
- 
+[![DOI](https://zenodo.org/badge/557240403.svg)](https://zenodo.org/badge/latestdoi/557240403) 
  
 ![This is an image](https://github.com/haddocking/contact-filtering/blob/main/banner.png?raw=true)
 
