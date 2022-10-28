@@ -117,7 +117,9 @@ Each complex directory includes an `ana_scripts` directory (see Section 1.1.). H
 <br/>
 
 ## 2. Docking results 
-the predicted 200 models for each protocol can be found on Zenodo:  *TBD
+the predicted 200 models for each protocol can be found on Zenodo:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7260736.svg)](https://doi.org/10.5281/zenodo.7260736)
+
+
 
 [1]: doi:10.1038/s41467-021-21636-z
 [2]: https://wenmr.science.uu.nl/disvis/
