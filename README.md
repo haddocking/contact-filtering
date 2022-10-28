@@ -1,10 +1,11 @@
 
-
-
 # contact-filtering
 DisVis-based filtering of contacts from co-evolution data (or other sources)
 
-
+DOI:
+ 10.5281/zenodo.7260708
+ 
+ 
 ![This is an image](https://github.com/haddocking/contact-filtering/blob/main/banner.png?raw=true)
 
 Here you can find the dataset described in the manuscript:
