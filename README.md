@@ -69,7 +69,7 @@ This file can be used together with the pdb files of the complex on the DisVis w
 #### 1.1.3. **Docking protocols**
 Nine directories in each complex directory include the files to perform the protocols described in the manuscript. The numbering of the protocols is according to Table 2 in the manuscript.
 
-![This is an image](https://github.com/haddocking/contact-filtering/blob/56891a0781ee599edf3cc3a7f36b498e51a5726a/table_2.png?raw=true)
+![This is an image](https://github.com/haddocking/contact-filtering/blob/main/table_2.png?raw=true)
 
 The name of each protocol includes the **protocol number** according to the manuscript, **contact method** which was used to arrange the contacts in the distance restraint file (disvis or coevolution), **the number of contacts** included in the distance restraint file and the **percentage of random removal** for the contact list during docking (e.g. `p5_disvis_10restraints_50%`).
 
