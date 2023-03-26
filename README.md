@@ -26,9 +26,9 @@ PDBID_GreenID_contacts (e.g. 1FM0_allpdb0609_6)
 │
 └─── ana_scripts
 │      
-└─── p1_coevol_20restraints_50%
+└─── p1_coevol_20restraints_0%
 │      
-└─── p2_coevol_20restraints_0%
+└─── p2_coevol_20restraints_50%
 |
 └─── p3_coevol_10restraints_0%
 |
