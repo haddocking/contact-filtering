@@ -27,22 +27,24 @@ PDBID_GreenID_contacts (e.g. 1FM0_allpdb0609_6)
 └─── ana_scripts
 │      
 └─── p1_coevol_20restraints_50%
+│      
+└─── p2_coevol_20restraints_0%
 |
-└─── p2_coevol_10restraints_0%
+└─── p3_coevol_10restraints_0%
 |
-└─── p3_disvis_10restraints_0%
+└─── p4_disvis_10restraints_0%
 |
-└─── p4_coevol_10restraints_50%
+└─── p5_coevol_10restraints_50%
 |
-└─── p5_disvis_10restraints_50%
+└─── p6_disvis_10restraints_50%
 |
-└─── p6_coevol_5restraints_0%
+└─── p7_coevol_5restraints_0%
 |
-└─── p7_disvis_5restraints_0%
+└─── p8_disvis_5restraints_0%
 |
-└─── p8_disvis_20restraints_zscore_lt0_5_50%
+└─── p9_disvis_20restraints_zscore_lt0_5_50%
 |
-└─── p9_disvis_20restraints_zscore_lt1_50%
+└─── p10_disvis_20restraints_zscore_lt1_50%
 ```
 
 <br/>
