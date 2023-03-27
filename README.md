@@ -8,6 +8,8 @@ Here you can find the dataset described in the manuscript:
 _Improving the Quality of Co-evolution Intermolecular Contact Prediction with DisVis_
 Siri Camee van Keulen, Alexandre M.J.J. Bonvin
 
+The content of this Github repository can be downloaded in its entirety from Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773498.svg)](https://doi.org/10.5281/zenodo.7773498)
+
 <br/>
 
 ## 1. Content 
