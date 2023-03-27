@@ -8,7 +8,7 @@ Here you can find the dataset described in the manuscript:
 _Improving the Quality of Co-evolution Intermolecular Contact Prediction with DisVis_
 Siri Camee van Keulen, Alexandre M.J.J. Bonvin
 
-The content of this Github repository can be downloaded in its entirety from Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773498.svg)](https://doi.org/10.5281/zenodo.7773498)
+The content of this Github repository can be downloaded in its entirety from Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773557.svg)](https://doi.org/10.5281/zenodo.7773557)
 
 <br/>
 
@@ -117,7 +117,7 @@ Each complex directory includes an `ana_scripts` directory (see Section 1.1.). H
 <br/>
 
 ## 2. Docking results 
-the predicted 200 models for each protocol can be found on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773557.svg)](https://doi.org/10.5281/zenodo.7773557)
+the predicted 200 models for each protocol can be found on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773498.svg)](https://doi.org/10.5281/zenodo.7773498) 
 
 
 [1]: doi:10.1038/s41467-021-21636-z
