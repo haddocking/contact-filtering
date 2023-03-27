@@ -2,7 +2,6 @@
 # contact-filtering
 DisVis-based filtering of contacts from co-evolution data (or other sources)
 
-([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773498.svg)](https://doi.org/10.5281/zenodo.7773498)) 
  
 ![This is an image](https://github.com/haddocking/contact-filtering/blob/main/banner.png?raw=true)
 
@@ -10,7 +9,7 @@ Here you can find the dataset described in the manuscript:
 _Improving the Quality of Co-evolution Intermolecular Contact Prediction with DisVis_
 Siri Camee van Keulen, Alexandre M.J.J. Bonvin
 
-DOI: *TBD
+The full dataset including all models is available from Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773498.svg)](https://doi.org/10.5281/zenodo.7773498)
 
 <br/>
 
