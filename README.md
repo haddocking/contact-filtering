@@ -2,6 +2,9 @@
 # contact-filtering
 DisVis-based filtering of contacts from co-evolution data (or other sources)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773557.svg)](https://doi.org/10.5281/zenodo.7773557
+
+
  
 ![This is an image](https://github.com/haddocking/contact-filtering/blob/main/banner.png?raw=true)
 
@@ -117,7 +120,6 @@ Each complex directory includes an `ana_scripts` directory (see Section 1.1.). H
 
 ## 2. Docking results 
 the predicted 200 models for each protocol can be found on Zenodo:  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773498.svg)](https://doi.org/10.5281/zenodo.7773498)
-
 
 
 [1]: doi:10.1038/s41467-021-21636-z
