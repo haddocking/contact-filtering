@@ -2,7 +2,7 @@
 # contact-filtering
 DisVis-based filtering of contacts from co-evolution data (or other sources)
 
-[![DOI](https://zenodo.org/badge/557240403.svg)](https://zenodo.org/badge/latestdoi/557240403) 
+[![DOI]([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773498.svg)](https://doi.org/10.5281/zenodo.7773498)) 
  
 ![This is an image](https://github.com/haddocking/contact-filtering/blob/main/banner.png?raw=true)
 
@@ -26,9 +26,9 @@ PDBID_GreenID_contacts (e.g. 1FM0_allpdb0609_6)
 │
 └─── ana_scripts
 │      
-└─── p1_coevol_20restraints_50%
+└─── p1_coevol_20restraints_0%
 │      
-└─── p2_coevol_20restraints_0%
+└─── p2_coevol_20restraints_50%
 |
 └─── p3_coevol_10restraints_0%
 |
