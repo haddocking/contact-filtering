@@ -47,7 +47,7 @@ PDBID_GreenID_contacts (e.g. 1FM0_allpdb0609_6)
 
 <br/>
 
-#### 1.1.2. **DisVis calculation for a complex**
+#### 1.1.2. **DisVis Calculation for a Complex**
 In each complex folder, 10 directories and one file can be found. In this file (GreenID_contacts_pdb_disvis_top20_10A.txt) the top 20 contacts (excluding unresolved residue contacts) are described according to DisVis format.
 
 <br/>
@@ -64,7 +64,7 @@ This file can be used together with the pdb files of the complex on the DisVis w
 
 <br/>
 
-#### 1.1.3. **Docking protocols**
+#### 1.1.3. **Docking Protocols**
 Ten directories in each complex directory include the files to perform the protocols described in the manuscript. The numbering of the protocols is according to Table 2 in the manuscript.
 
 ![This is an image](https://github.com/haddocking/contact-filtering/blob/main/table_2.png?raw=true)
@@ -106,7 +106,7 @@ The **output** directory includes selected docking output and output from the an
 
 <br/>
 
-#### 1.1.4. **Analysis scripts for Each Protocol**
+#### 1.1.4. **Analysis Scripts for Each Protocol**
 
 Each complex directory includes an `ana_scripts` directory (see Section 1.1.). Here all scripts are made available to obtain the `DockQ.dat` and cluster files from the `output directory`. 
 
@@ -116,7 +116,7 @@ Each complex directory includes an `ana_scripts` directory (see Section 1.1.). H
 
 <br/>
 
-## 2. Docking results 
+## 2. Docking Results 
 the predicted 200 models for each protocol can be found on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773498.svg)](https://doi.org/10.5281/zenodo.7773498) 
 
 
